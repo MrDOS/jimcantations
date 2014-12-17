@@ -1,6 +1,6 @@
 {
   "name": "Jimcantation",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Interactively observe how poorly you're performing in one of Jim Diamond's classes.",
   "authors": [
     "Samuel Coleman"
