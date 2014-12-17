@@ -1,12 +1,12 @@
 {
-  "name": "Jimcantation",
+  "name": "Jimcantations",
   "version": "1.0.0",
   "description": "Interactively observe how poorly you're performing in one of Jim Diamond's classes.",
   "authors": [
     "Samuel Coleman"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/MrDOS/jimcantation",
+  "homepage": "https://github.com/MrDOS/jimcantations",
   "private": true,
   "ignore": [
     "**/.*",
