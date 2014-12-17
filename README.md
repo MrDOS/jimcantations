@@ -12,5 +12,5 @@ run it; just open `index.html` locally in your favourite,
 ECMAScript&nbsp;_n_-implementing web browser.
 
 If you'd really rather not have to bother with all that nonsense, I quite
-sympathise; I will begin hosting a copy somewhere on the public Internet
-sometime soon.
+sympathise; I [host a copy](http://falcon.acadiau.ca/~105709c/jimcantations/)
+to save others the hassle.
