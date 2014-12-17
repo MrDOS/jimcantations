@@ -1,0 +1,19 @@
+{
+  "name": "Jimcantation",
+  "version": "1.0.0-alpha",
+  "description": "Interactively observe how poorly you're performing in one of Jim Diamond's classes.",
+  "authors": [
+    "Samuel Coleman"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MrDOS/jimcantation",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "metrics-graphics": "~1.1.0"
+  }
+}
