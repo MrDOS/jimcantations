@@ -22,8 +22,8 @@ var grade = function(e, m, a, b, jb)
         if (e > 50)
             f += 0.2 * Math.max(e, m) + 0.1 * Math.max(e, a);
         else
-            f += 0.2 * ((e - 40) * Math.max(e, m) + (50 - e) * e)
-               + 0.1 * ((e - 40) * Math.max(e, a) + (50 - e) * e);
+            f += 0.02 * ((e - 40) * Math.max(e, m) + (50 - e) * e)
+               + 0.01 * ((e - 40) * Math.max(e, a) + (50 - e) * e);
 
     if (m < 40)
         f = Math.min(f, m);
