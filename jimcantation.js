@@ -31,7 +31,7 @@ var grade = function(e, m, a, b, jb)
     if (a < 50)
         f = Math.min(f, a);
 
-    return f;
+    return Math.max(0, Math.min(100, f));
 }
 
 /**
